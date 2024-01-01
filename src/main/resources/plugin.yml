@@ -1,0 +1,11 @@
+name: KatsuItems
+version: '${project.version}'
+main: com.github.maazapan.katsuitems.KatsuItems
+api-version: 1.16
+
+commands:
+  ktitem:
+    aliases:
+      - ktitems
+      - katsuitem
+      - katsuitems
